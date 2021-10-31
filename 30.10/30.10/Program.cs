@@ -2,7 +2,7 @@
 
 namespace _30._10
 {
-    class Program
+    class Program //It is the 1st program
     {
         static void Main(string[] args)
         {
