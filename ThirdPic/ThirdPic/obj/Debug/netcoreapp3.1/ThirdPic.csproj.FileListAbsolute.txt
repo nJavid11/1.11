@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ThirdPic\ThirdPic\bin\Debug\netcoreapp3.1\ThirdPic.exe
+C:\Users\User\source\repos\ThirdPic\ThirdPic\bin\Debug\netcoreapp3.1\ThirdPic.deps.json
+C:\Users\User\source\repos\ThirdPic\ThirdPic\bin\Debug\netcoreapp3.1\ThirdPic.runtimeconfig.json
+C:\Users\User\source\repos\ThirdPic\ThirdPic\bin\Debug\netcoreapp3.1\ThirdPic.runtimeconfig.dev.json
+C:\Users\User\source\repos\ThirdPic\ThirdPic\bin\Debug\netcoreapp3.1\ThirdPic.dll
+C:\Users\User\source\repos\ThirdPic\ThirdPic\bin\Debug\netcoreapp3.1\ThirdPic.pdb
+C:\Users\User\source\repos\ThirdPic\ThirdPic\obj\Debug\netcoreapp3.1\ThirdPic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ThirdPic\ThirdPic\obj\Debug\netcoreapp3.1\ThirdPic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ThirdPic\ThirdPic\obj\Debug\netcoreapp3.1\ThirdPic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ThirdPic\ThirdPic\obj\Debug\netcoreapp3.1\ThirdPic.AssemblyInfo.cs
+C:\Users\User\source\repos\ThirdPic\ThirdPic\obj\Debug\netcoreapp3.1\ThirdPic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ThirdPic\ThirdPic\obj\Debug\netcoreapp3.1\ThirdPic.dll
+C:\Users\User\source\repos\ThirdPic\ThirdPic\obj\Debug\netcoreapp3.1\ThirdPic.pdb
+C:\Users\User\source\repos\ThirdPic\ThirdPic\obj\Debug\netcoreapp3.1\ThirdPic.genruntimeconfig.cache

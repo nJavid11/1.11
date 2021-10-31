@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SecPic\SecPic\bin\Debug\netcoreapp3.1\SecPic.exe
+C:\Users\User\source\repos\SecPic\SecPic\bin\Debug\netcoreapp3.1\SecPic.deps.json
+C:\Users\User\source\repos\SecPic\SecPic\bin\Debug\netcoreapp3.1\SecPic.runtimeconfig.json
+C:\Users\User\source\repos\SecPic\SecPic\bin\Debug\netcoreapp3.1\SecPic.runtimeconfig.dev.json
+C:\Users\User\source\repos\SecPic\SecPic\bin\Debug\netcoreapp3.1\SecPic.dll
+C:\Users\User\source\repos\SecPic\SecPic\bin\Debug\netcoreapp3.1\SecPic.pdb
+C:\Users\User\source\repos\SecPic\SecPic\obj\Debug\netcoreapp3.1\SecPic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SecPic\SecPic\obj\Debug\netcoreapp3.1\SecPic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SecPic\SecPic\obj\Debug\netcoreapp3.1\SecPic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SecPic\SecPic\obj\Debug\netcoreapp3.1\SecPic.AssemblyInfo.cs
+C:\Users\User\source\repos\SecPic\SecPic\obj\Debug\netcoreapp3.1\SecPic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SecPic\SecPic\obj\Debug\netcoreapp3.1\SecPic.dll
+C:\Users\User\source\repos\SecPic\SecPic\obj\Debug\netcoreapp3.1\SecPic.pdb
+C:\Users\User\source\repos\SecPic\SecPic\obj\Debug\netcoreapp3.1\SecPic.genruntimeconfig.cache

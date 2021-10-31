@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FourthPic\FourthPic\bin\Debug\netcoreapp3.1\FourthPic.exe
+C:\Users\User\source\repos\FourthPic\FourthPic\bin\Debug\netcoreapp3.1\FourthPic.deps.json
+C:\Users\User\source\repos\FourthPic\FourthPic\bin\Debug\netcoreapp3.1\FourthPic.runtimeconfig.json
+C:\Users\User\source\repos\FourthPic\FourthPic\bin\Debug\netcoreapp3.1\FourthPic.runtimeconfig.dev.json
+C:\Users\User\source\repos\FourthPic\FourthPic\bin\Debug\netcoreapp3.1\FourthPic.dll
+C:\Users\User\source\repos\FourthPic\FourthPic\bin\Debug\netcoreapp3.1\FourthPic.pdb
+C:\Users\User\source\repos\FourthPic\FourthPic\obj\Debug\netcoreapp3.1\FourthPic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FourthPic\FourthPic\obj\Debug\netcoreapp3.1\FourthPic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FourthPic\FourthPic\obj\Debug\netcoreapp3.1\FourthPic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FourthPic\FourthPic\obj\Debug\netcoreapp3.1\FourthPic.AssemblyInfo.cs
+C:\Users\User\source\repos\FourthPic\FourthPic\obj\Debug\netcoreapp3.1\FourthPic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FourthPic\FourthPic\obj\Debug\netcoreapp3.1\FourthPic.dll
+C:\Users\User\source\repos\FourthPic\FourthPic\obj\Debug\netcoreapp3.1\FourthPic.pdb
+C:\Users\User\source\repos\FourthPic\FourthPic\obj\Debug\netcoreapp3.1\FourthPic.genruntimeconfig.cache

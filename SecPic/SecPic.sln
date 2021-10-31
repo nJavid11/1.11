@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecPic", "SecPic\SecPic.csproj", "{4CF5B94E-2012-4322-96D3-A0E8D76D4CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF5B94E-2012-4322-96D3-A0E8D76D4CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF5B94E-2012-4322-96D3-A0E8D76D4CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF5B94E-2012-4322-96D3-A0E8D76D4CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF5B94E-2012-4322-96D3-A0E8D76D4CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622A47F4-CB80-4AB7-8D8E-B1D3A29A941E}
+	EndGlobalSection
+EndGlobal
