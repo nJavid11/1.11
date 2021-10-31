@@ -2,7 +2,7 @@
 
 namespace ThirdPic
 {
-    class Program   //It is the 1st program
+    class Program   //It is the 4th program
     {
         static void Main(string[] args)
         {
