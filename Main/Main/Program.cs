@@ -2,7 +2,7 @@
 
 namespace Main
 {
-    class Program   //It is the 1st program
+    class Program   //It is the 2nd program
     {
         static void Main(string[] args)
         {
